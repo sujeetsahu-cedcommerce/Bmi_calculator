@@ -1,0 +1,32 @@
+.container_div{
+    border: 1px sold black;
+    align-items: center;
+    background-color: coral;
+  }
+
+table tr td input{
+    border: none;
+    border-bottom: 3px solid black;
+    width: 8vw;
+}
+
+table {
+  margin: auto;
+}
+
+.btn_div{
+    width: 55%;
+    align-items: center;
+    margin: auto;
+    display: flex;
+    justify-content: space-between;
+    margin-top: 5%;
+    margin-bottom: 5%;
+}
+
+.btn{
+    font-size:1.5vw;
+    width: 8vw;
+    height: 6vh;
+    background-color: rgb(128, 128, 159);
+}

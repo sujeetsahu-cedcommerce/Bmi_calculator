@@ -40,8 +40,8 @@ export default class BillCalculator extends Component {
 
   render() {
     return (
-      <div style={{}}>
-        <div style={{ width: "50%", margin: "auto" }}>
+      <div style={{textAlign:"center"}}>
+        <div style={{ width: "50%", margin: "auto",border:"1px solid black",backgroundColor:"lightblue"}}>
           <h3>BILL CALCULATOR</h3>
           <div style={{ marginBottom: "2%" }}>
             <label style={{ marginRight: "2rem" }}>Units:</label>
